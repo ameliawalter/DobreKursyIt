@@ -2,7 +2,7 @@
 ## Algorithmic tasks training for automation testers (Python)
 
 Write a function that verifies whether a word is a palindrome (i.e. is it the same word with reversed letters).
-The checked word can be a paramter or an input from the user.
+The checked word can be a parameter or an input from the user.
 
 1. Write the first idea that comes to your mind.
 2. Refactor your code so that it is cleaner and more concise.
