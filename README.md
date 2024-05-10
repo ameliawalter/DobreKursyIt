@@ -8,11 +8,11 @@ The checked word can be a paramter or an input from the user.
 2. Refactor your code so that it is cleaner and more concise.
 3. *Think how to increase your code's testability. Write unit tests.
 
-[!WARNING]  
-Tips below contain spoilers.
+> [!WARNING]  
+> Tips below contain spoilers.
 
-[!TIP]
-* convert your parameter or input to lowercase (optionally, remove non-alphanumeric characters)
-* reverse the word
-* compare the original and reversed words
-* to increase testability, instead of simple comparing (if), you may return a boolean variable value
+> [!TIP]
+> * convert your parameter or input to lowercase (optionally, remove non-alphanumeric characters)
+> * reverse the word
+> * compare the original and reversed words
+> * to increase testability, instead of simple comparing (if), you may return a boolean variable value
